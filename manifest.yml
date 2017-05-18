@@ -1,0 +1,5 @@
+applications:
+- name: tomcat-extend
+  memory: 512M 
+  instances: 1
+  host: tomcat-extend
